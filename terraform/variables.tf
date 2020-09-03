@@ -20,6 +20,6 @@
   # Apps variables
 
     variable "heroku_region" {
-    default = "virginia"
+    default = "oregon"
     }
 
